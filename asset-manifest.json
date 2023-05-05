@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/advocatehub/static/css/main.0a2c4f0e.css",
+    "main.js": "/advocatehub/static/js/main.31b4e605.js",
+    "static/js/787.a17d2100.chunk.js": "/advocatehub/static/js/787.a17d2100.chunk.js",
+    "static/media/logo.png": "/advocatehub/static/media/logo.1ed9afd99e6c482abf58.png",
+    "index.html": "/advocatehub/index.html",
+    "main.0a2c4f0e.css.map": "/advocatehub/static/css/main.0a2c4f0e.css.map",
+    "main.31b4e605.js.map": "/advocatehub/static/js/main.31b4e605.js.map",
+    "787.a17d2100.chunk.js.map": "/advocatehub/static/js/787.a17d2100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a2c4f0e.css",
+    "static/js/main.31b4e605.js"
+  ]
+}
