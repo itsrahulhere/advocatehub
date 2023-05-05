@@ -21,7 +21,7 @@ function App() {
         </Routes>
       </BrowserRouter>
 
-      <a href="https://wa.me/7532080633?text=Hello%2C%20i%20want%20to%20know%20about%20the%20products" className="wa" target="_blank" rel="noreferrer" >
+      <a href="https://wa.me/8178056047?text=Hello%2C%20i%20want%20to%20know%20about%20the%20services" className="wa" target="_blank" rel="noreferrer" >
         <i class="fa fa-whatsapp my-wa"></i>
       </a>
     </div>

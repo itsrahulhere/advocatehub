@@ -8,7 +8,7 @@ function Products() {
         <div className="Products">
             <br /><br /><br /><br />
             <div className="product-heading">
-                <h3>Our Unique Products</h3>
+                <h3>Popular Services</h3>
             </div>
             <Container>
             <div class="product-row row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-5 row-cols-xl-5">
@@ -17,14 +17,15 @@ function Products() {
                         <Col>
                             <Link to={`products/${id}`} style={{textDecoration:'none'}}>
                             <div className="product-card">
-                                <img src={image1} alt="sample85" />
+                                <img src={image1} alt="sample85" height={175} width="100%" />
                                 <figcaption>
                                     <h3>{title}</h3>
                                     <p>All this modern technology just makes people try to do everything at once.</p>
-                                    <hr/>
+                                    {/* <hr/> */}
                                     <div class="price">
-                                        <s>₹24.00</s>₹19.00
+                                        {/* <s>₹24.00</s>₹19.00 */}
                                     </div>
+                                    {/* <br/> */}
                                 </figcaption>
                             </div>
                             </Link>

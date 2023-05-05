@@ -31,9 +31,9 @@ function Navibar() {
           </Nav>
           <Nav>
             <div className='navibar-contact'>
-              <a href="/" target="_blank">
+              <a href="https://wa.me/8178056047?text=Hello%2C%20i%20want%20to%20know%20about%20the%20services" target="_blank">
               <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" height="30px" alt="wa"/>
-              <span className='phonenumber'>+917532080633 (10AM - 8PM everyday) </span>
+              <span className='phonenumber'>+918178056047 (10AM - 8PM everyday) </span>
               </a>
             </div>
 

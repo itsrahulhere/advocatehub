@@ -25,11 +25,11 @@ function Footer() {
             <br />
             <div className='footer-bottom mx-5'>
                 <hr />
-                <a href="/contact" >Contact us</a>
+                <a href="/contact" >Contact Us</a>
                 <hr />
-                <a href="/about"> About Uphaar</a>
+                <a href="/about"> About AdvocateHub</a>
                 <hr />
-                <a href="/" target="_blank"> +917532080633<br/>
+                <a href="https://wa.me/8178056047?text=Hello%2C%20i%20want%20to%20know%20about%20the%20services" target="_blank" rel="noreferrer"> +918178056047<br/>
                 <span className='contact'> (10 AM - 8 PM | everyday) </span></a>
                 <br/><br/>
             </div>
@@ -44,7 +44,7 @@ function Footer() {
                 </Container>
             </div> */}
             <div className='copyright-footer'>
-                &copy; 2023 Uphaar
+                &copy; 2023 AdvocateHub
             </div>
 
         </div>

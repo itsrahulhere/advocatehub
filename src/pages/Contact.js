@@ -19,9 +19,9 @@ function Contact() {
                 <h3>Get in touch</h3>
               </div>
               <p>
-                If you have any questions, want to work together on something amazing,
-                or simply want to share your love for gifts, feel free to reach out to us.
-                If there's one thing we love apart from making awesome gifts, it is talking!
+              We welcome your questions, comments, and feedback. 
+              If you need legal assistance or have any inquiries about our legal services,
+              please get in touch with us using the contact form or the contact information provided below.
               </p>
             </div>
             <br />

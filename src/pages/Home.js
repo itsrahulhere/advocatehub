@@ -2,7 +2,7 @@ import Footer from "../components/Footer";
 import Navibar from "../components/Navibar";
 import Products from "../components/Products";
 
-import ProductDetails from "./ProductDetails";
+// import ProductDetails from "./ProductDetails";
 
 function Home() {
   return (
